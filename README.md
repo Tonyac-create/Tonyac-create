@@ -1,5 +1,13 @@
-## Hi there 👋
 
+![Texte alternatif](assets/clavier.jpg)
+# Salut, je m'appelle Angélique et je suis développeuse Web👋
+
+## Langages utilisés
+![Texte alternatif](assets/HTML.png)
+![Texte alternatif](assets/CSS.png)
+![Texte alternatif](assets/JavaScript.png)
+![Texte alternatif](assets/React.png)
+![Texte alternatif](assets/NextJS.png)
 <!--
 **Tonyac-create/Tonyac-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
