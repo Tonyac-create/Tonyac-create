@@ -1,5 +1,7 @@
 
-![Texte alternatif](assets/clavier.jpg)
+<!-- ![Texte alternatif](assets/clavier.jpg) -->
+<img src="assets/clavier.jpg" alt="Logo HTML" width="100%"/>
+
 # Salut, je m'appelle Angélique et je suis développeuse Web👋
 
 ## Langages utilisés
