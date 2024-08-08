@@ -8,7 +8,7 @@
 <br>
 <div style="display: flex; justify-content: space-around;">
     <img src="assets/HTML.png" alt="Logo HTML" width="150"/>
-    <img src="assets/CSS.png" alt="Logo HTML" width="150"/>
+    <img src="assets/CSS.png" alt="Logo HTML" width="100" height="150"/>
     <img src="assets/JavaScript.png" alt="Logo HTML" width="150"/>
     <img src="assets/React.png" alt="Logo HTML" width="150"/>
     <img src="assets/NextJs.png" alt="Logo HTML" width="150"/>
