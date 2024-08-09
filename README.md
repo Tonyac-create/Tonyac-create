@@ -21,6 +21,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyac-create&layout=compact)
 
 
-## Challenge FrontEnd Mentor
+## Challenges FrontEnd Mentor
 
 [Repo gitHub](https://github.com/FrontEndMentorTonyac)
