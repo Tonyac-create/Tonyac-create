@@ -17,8 +17,6 @@
 
 ## Statistiques
 
-## Statistiques
-
 <br>
 
 <table>
