@@ -17,14 +17,22 @@
 
 ## Statistiques
 
+## Statistiques
+
 <br>
-<div style="display: flex; justify-content: space-between; gap: 16px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyac-create&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyac-create&layout=compact" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tonyac-create&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+    </td>
+  </tr>
+</table>
 
-![Les statistiques GitHub de VOTRE_NOM_DUTILISATEUR](https://github-readme-stats.vercel.app/api?username=Tonyac-create&show_icons=true&theme=radical)
-
-</div>
+<br>
 
 ## Challenges FrontEnd Mentor
 
